@@ -1,30 +1,25 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Xinyue Liu
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained： false 
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/v-ZyJf9Bh10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data—external="1"></iframe>>
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The big data help designers listen to customers and know what customers want. Therefore, designers can predict what customers want for next season,optimize the art they create and make the design more precise pandering to the masses. For example,designers can have a clear view of what color customer like,or what fabric customers want for summer,etc. 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+This company is renting clothing but not selling,so they create a platform called Rent the Runway. In this platform,customers can check all clothing they can rent with around 60 specific information,like the color,fabric,silhouette,length and so on. Beside this,customers can interact within this platform,like sharing the photos of their fittings,and posting how they are fitting the clothing,whether they like it,how many times they have rent. Customers can share anything they want to point out,and these words could be feedback or suggestions for designers. 
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Before having the big data, designers cannot predict what customers want,they rarely can hear customer's voices. So when they design,the concept is more of their own guesses about the customer. This will make the final design less accurate. With the help of big data,predict upcoming trends to make the design more in line with the tastes of the public. 
