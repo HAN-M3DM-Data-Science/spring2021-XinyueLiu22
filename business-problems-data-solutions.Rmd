@@ -1,7 +1,8 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Xinyue Liu
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained： false 
 output:
   html_notebook:
     toc: yes
@@ -10,17 +11,17 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/tfq1bCx9pnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data—external="1"></iframe>>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The theme park has no idea what their customers are doing inside, so they don't know how to improve their services and deliver a better customer experience.  
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+In order to deliver the better customer experience, Disney provides Magical Bands to customers after they entering the theme park. The magical band has GPS tracking system, and it allows customers to pay with it. So Disney can know where the customers are exactly at in the theme park and what they are buying during the trip. And if there is a long queues forming somewhere in the park, workers is able to track the location and direct customers to other empty rides or offer some food to less the waiting time. Beside this, Disney uses artificial intelligence and machine versions in cinemas and live shows to know real-time situations. There is a night-version camera observing audiences' facial expressions, which helps to analyze customers sentimentally. Disney can receive real-time feedback from this to see how people are responding to the shows.
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The more Disney know their customers, the better service they can provide. The data they received can be used to improve their offerings and services, and to find out if there is any inconveniences in their theme parks. Disney can know from the data what is most attractive to customers and what is not. The theme parks can reschedule some strategies based on their analytical findings. 
