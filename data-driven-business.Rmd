@@ -1,6 +1,8 @@
 ---
 title: "Assigment - Data Driven Business"
+author: Xinyue Liu
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained： false 
 output:
   html_notebook:
     toc: yes
