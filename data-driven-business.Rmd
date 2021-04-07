@@ -9,17 +9,17 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
-
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/oQcxU1ITayI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data—external="1"></iframe>>
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Companies realize that they rely more on data, rather than find new opportunities or inspirations. 
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+The companies need to see their data as a strategic asset, and change the way they approach to manage data by starting an open information architecture. With the new approach, employees are freed up from the inhibitor to get to that culture. The companies  required one single version of truth, people can achieve many other new insights by infusing this one. 
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+Currently we are at the transitioning moment, many data resources still need to be digged out. When people really focus on implementing the analytics and machine learning, then people are able to work towards artificial intelligence, which is the a mature data driven business situation. So that the company can better serve their customers and make better decisions. 
 
